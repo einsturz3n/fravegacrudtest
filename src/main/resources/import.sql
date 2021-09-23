@@ -1,0 +1,1 @@
+INSERT INTO sucursales(direccion, horario_atencion, latitud, longitud) VALUES ('Nansen 356', '09hs/22hs', '32.916549', '60.679565');
