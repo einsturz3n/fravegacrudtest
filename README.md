@@ -1,5 +1,5 @@
-# fravegacrudtest
-Fravega CRUD Test.
+# sucursalescrudtest
+Sucursales CRUD Test.
 
 Este es un servicio CRUD de sucursales.
 
